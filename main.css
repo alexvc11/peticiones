@@ -1,0 +1,44 @@
+.inputs{
+    text-align: left;
+    margin: 15px;
+    width: 80%;
+    height: 30px;
+    
+}
+#descripción{
+    height: 150px;
+    max-width: 1000px;
+    max-height: 1000px;
+    min-width: 100px;
+    min-height: 100px;
+}
+
+form {
+    border: 1px solid;
+    text-align: center;
+    margin: solid 2px;
+    height: auto;
+    width: auto;
+    max-width: 1200px;
+    margin: auto;
+    background-color: rgba(238, 238, 238, 0.644);
+    border-color: rgba(238, 238, 238, 0.644);
+    border-style: outset;
+}
+label {
+    font-size: xx-large;
+}
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+#submit{
+    margin-bottom: 20px;
+    border-radius: 15px;
+    color: #fff;
+    background-color: darkcyan;
+    border-style: none;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
